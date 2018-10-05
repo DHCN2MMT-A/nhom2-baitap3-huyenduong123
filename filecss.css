@@ -1,0 +1,82 @@
+nav {
+    float: right;
+  
+}
+li {
+    list-style-type: none;
+    float: left;
+}
+a {
+    color: blue;
+}
+h1{
+    padding-top: 50px;
+    font-size: 40px;
+}
+u{
+    text-align: center;
+    padding-left: 40%;
+    color: blue;
+}
+img {
+    border-radius: 50%;
+    width: 18%;
+    margin: 0 auto;
+    display: block;
+}
+
+h2 {
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+    font-size: 35px;
+}
+
+p {
+    margin-left: 465px;
+    margin-right: 323px;
+}
+.interesting{
+    margin-left: 465px;
+    margin-right: 323px;
+    
+}
+h2#Honours {
+    color: red;
+    
+}
+p.bright {
+    color: red;
+}
+a.spl-linka {
+    color: white;
+    background: gray;
+    
+    border: 8px solid gray;
+    border-radius: 5%;
+    text-decoration: none;
+}
+a.spl-linkb {
+    color: white;
+    background: darkorange;
+    border: 8px solid darkorange;
+    border-radius: 5%;
+    text-decoration: none;
+}
+h3 {
+    color: blue;
+    font-size: 27px;
+    text-decoration: underline;
+    text-align: center;
+}
+body {
+    background: turquoise;
+}
+ol {
+    font: 200 23px/0.8 'Great Vibes', Helvetica, sans-serif;
+    color: blue;
+}
+ol li{
+    list-style-type: unset;
+    width: -webkit-fill-available;
+}
